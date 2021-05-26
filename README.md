@@ -1,7 +1,3 @@
----
-date: '29 января 2021 г., 1:37'
----
-
 # Documentation, tutorials
 https://obsidian.md/
 [Obsidian documentation](https://publish.obsidian.md/help/Index)
