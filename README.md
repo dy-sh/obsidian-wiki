@@ -1,13 +1,13 @@
-# Documentation, tutorials
-https://obsidian.md/
-[Obsidian documentation](https://publish.obsidian.md/help/Index)
-
-[awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-
-[ProductivityGuru tutorials](https://www.youtube.com/c/ProductivityGuru/playlists)
-[Linking Your Thinking tutorials](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/playlists)
-
-
+# Documentation, tutorials  
+https://obsidian.md/  
+[Obsidian documentation](https://publish.obsidian.md/help/Index)  
+  
+[awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)  
+  
+[ProductivityGuru tutorials](https://www.youtube.com/c/ProductivityGuru/playlists)  
+[Linking Your Thinking tutorials](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/playlists)  
+  
+  
 
 
 
@@ -79,12 +79,12 @@ https://obsidian.md/
 
 # Settings
 
-Для совместимости страниц с другими программами (для публикации страниц на github например) обязательно нужно изменить опции:
+Для совместимости страниц с другими программами (для публикации страниц на github например) обязательно нужно изменить опции:  
 
-**Формат новой ссылки**: Относительный путь к файлу
-**Использовать Wiki-ссылки**: false
+**Формат новой ссылки**: Относительный путь к файлу  
+**Использовать Wiki-ссылки**: false  
 
-**Не стоит использовать wiki-ссылки** `[[link]]`, чтобы в последствии не иметь проблем с совместимостью с другими программами и деплоем страниц в веб. Используем обычные ссылки `[text](link)`. Если у нас уже имеются wiki ссылки, то их можно [сконвертировать](Obsidian.md#Как%20сконвертировать%20wiki-ссылки%20в%20обычные%20markdown).
+**Не стоит использовать wiki-ссылки** `[[link]]`, чтобы в последствии не иметь проблем с совместимостью с другими программами и деплоем страниц в веб. Используем обычные ссылки `[text](link)`. Если у нас уже имеются wiki ссылки, то их можно [сконвертировать](Obsidian.md#Как%20сконвертировать%20wiki-ссылки%20в%20обычные%20markdown).  
 
 
 
@@ -118,32 +118,32 @@ https://obsidian.md/
 # Hot to use Obsidian with other apps
 
 ### Typora, Marktext
-Obsidian можно совмещать с другими редакторами, например [typora](https://typora.io/#windows) или [marktext](https://github.com/marktext/marktext), которые имеют удобные редакторы таблиц, и позволяют редакторировать текст в режиме WYSIWYG.
-Чтобы иметь максимальную совместимость markdown формата с другими программами, в Obsidian нужно настроить формат ссылок, отключив wiki-links и включив относительные пусти в ссылках. Typora (в отличие от Obsidian) поддерживает вставку таблиц, скопированных из OneNote. 
-[Как поменять Enter и Shift+Enter местами в typora](https://github.com/typora/typora-issues/issues/37).
+Obsidian можно совмещать с другими редакторами, например [typora](https://typora.io/#windows) или [marktext](https://github.com/marktext/marktext), которые имеют удобные редакторы таблиц, и позволяют редакторировать текст в режиме WYSIWYG.  
+Чтобы иметь максимальную совместимость markdown формата с другими программами, в Obsidian нужно настроить формат ссылок, отключив wiki-links и включив относительные пусти в ссылках. Typora (в отличие от Obsidian) поддерживает вставку таблиц, скопированных из OneNote.  
+[Как поменять Enter и Shift+Enter местами в typora](https://github.com/typora/typora-issues/issues/37).  
 
-Можно сделать Typora дефолтным редактором md файлов в системе и легко переключаться на него из Obsidian по хоткею Open in default app.
+Можно сделать Typora дефолтным редактором md файлов в системе и легко переключаться на него из Obsidian по хоткею Open in default app.  
 
 ### VSCode
-В VSCode, можно поставить следующие плагины:
+В VSCode, можно поставить следующие плагины:  
 
-[Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo) (поддерживает ссылки на другие страницы и изображения, но не поддерживается ссылка на заголовок или блок)
+[Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo) (поддерживает ссылки на другие страницы и изображения, но не поддерживается ссылка на заголовок или блок)  
 
-Чтобы писать страницы можно поставить:
+Чтобы писать страницы можно поставить:  
 
-[Foam for VSCode](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+[Foam for VSCode](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)  
 
-[Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+[Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
 
-Чтобы работали wiki-ссылки, в VSCode надо открывать папку со всеми страницами.
+Чтобы работали wiki-ссылки, в VSCode надо открывать папку со всеми страницами.  
 
-Чтобы VSCode переносил строки от одного символа разделения строк (такой формат используется в obsidian по дефолту), включаем опцию Markdown > Preview: Breaks.
+Чтобы VSCode переносил строки от одного символа разделения строк (такой формат используется в obsidian по дефолту), включаем опцию Markdown > Preview: Breaks.  
 
-Можно так же поставить Discoord Theme.
+Можно так же поставить Discoord Theme.  
 
 # Tips and tricks
 
-### Навигация по всем заметкам определенной темы или блокнота
+### Навигация по всем заметкам определенной темы или блокнота  
 Удобно создать страницу с ссылками на все страницы определенной темы или блокнота и закрепить эту траницу в левой панельке возле списка файлов. В отличие от списка файлов, тут можно рассортировать заметки в нужной последовательности и добавить оформление для удобного поиска.
 
 ### Changelog panel
@@ -193,10 +193,10 @@ path:FolderName - можно указать папку, в которой иск
 Такая фича есть в [Consistent attachments and links](https://github.com/derwish-pro/obsidian-consistent-attachments-and-links).
  
 
-### Особенность с умным поиском путей
+### Особенность с умным поиском путей  
 Obsidian имеет умный поиск путей ссылок и вложений в заметках. К примеру, ссылка может говорить что изображение надо загружать из attachments\\image1.png, и где бы не лежала эта папка attachments в иерархии загруженных папок, она будет найдена. Это с одной стороны плюс - сложнее сломать ссылки, с другой стороны минус - другие программы (или например githab) не поддерживают это, и ссылка окажется битой. Так же это может привести к тому, что была ссылка на одно изображение, а отображается другое, имеющее такое же название.
-**Как определить реальный путь к изображению/ссылке в открытой заметке**
-В режиме редактирования RMB по ссылке \> Reveal file in navigation, Obsidian подсветит файл на панели слева.
+**Как определить реальный путь к изображению/ссылке в открытой заметке**  
+В режиме редактирования RMB по ссылке \> Reveal file in navigation, Obsidian подсветит файл на панели слева.  
 
 
 
