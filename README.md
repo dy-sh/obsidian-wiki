@@ -190,7 +190,7 @@ path:FolderName - можно указать папку, в которой иск
 
 ### Как сконвертировать wiki-ссылки в обычные markdown
 
-Такая фича есть в [Consistent attachments and links](https://github.com/derwish-pro/obsidian-consistent-attachments-and-links).
+Такая фича есть в [Consistent attachments and links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links).
  
 
 ### Особенность с умным поиском путей  
