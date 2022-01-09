@@ -1,14 +1,3 @@
-# Documentation, tutorials  
-https://obsidian.md/  
-[Obsidian documentation](https://publish.obsidian.md/help/Index)  
-  
-[awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)  
-  
-[ProductivityGuru tutorials](https://www.youtube.com/c/ProductivityGuru/playlists)  
-[Linking Your Thinking tutorials](https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/playlists)  
-  
-  
-
 
 
 # Hotkeys
@@ -89,7 +78,7 @@ https://obsidian.md/
 
 
 
-# Functions
+# Features
 
 - **Линки между страницами** (включая линки на конкретный абзац или предложение)
 - **Мультикурсор** (Alt+Click)
@@ -115,9 +104,10 @@ https://obsidian.md/
 
 
 
-# Hot to use Obsidian with other apps
+# How to use Obsidian with other apps
 
 ### Typora, Marktext
+
 Obsidian можно совмещать с другими редакторами, например [typora](https://typora.io/#windows) или [marktext](https://github.com/marktext/marktext), которые имеют удобные редакторы таблиц, и позволяют редакторировать текст в режиме WYSIWYG.  
 Чтобы иметь максимальную совместимость markdown формата с другими программами, в Obsidian нужно настроить формат ссылок, отключив wiki-links и включив относительные пусти в ссылках. Typora (в отличие от Obsidian) поддерживает вставку таблиц, скопированных из OneNote.  
 [Как поменять Enter и Shift+Enter местами в typora](https://github.com/typora/typora-issues/issues/37).  
@@ -125,6 +115,7 @@ Obsidian можно совмещать с другими редакторами,
 Можно сделать Typora дефолтным редактором md файлов в системе и легко переключаться на него из Obsidian по хоткею Open in default app.  
 
 ### VSCode
+
 В VSCode, можно поставить следующие плагины:  
 
 [Markdown Memo](https://marketplace.visualstudio.com/items?itemName=svsool.markdown-memo) (поддерживает ссылки на другие страницы и изображения, но не поддерживается ссылка на заголовок или блок)  
@@ -329,21 +320,8 @@ Obsidian имеет умный поиск путей ссылок и вложе�
 [GitHub + Mermaid Firefox extension](https://addons.mozilla.org/en-GB/firefox/addon/github-mermaid/)
 
 [oboe](https://github.com/kmaasrud/oboe) - Oboe is a Python command line tool made to convert an Obsidian vault into a vault of HTML files, with the goal of publishing them as static files. Publishing your vault automatically to GitHub Pages.
-
-
-
-
-
-
-
-# Какие доп.фичи хотелось бы иметь
-
-- WYSIWYG (в разработке)
-- Более продвинутый визуальный редактор таблиц (как в typora и marktext)
-- Скрывать папки/файлы определнного разрешения на панели с файлами, чтобы не наблюдать вложения
-- Запоминать историю позиции курсора и двигаться по ней назад/вперед хоткеем
-- Публикацию страниц в веб, например Github Gist с [вложениями](https://gist.github.com/remarkablemark/feff40b0a522f0c41c4eff0b77ea1d47)
-- Автоматическое создание страницы с сылками на все страницы из папки, или другой вариант создания кастомной сортировки страниц
+  
+[awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)  - большой список всякого разного полезного
 
 
 # Как редактировать тему
