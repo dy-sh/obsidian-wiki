@@ -312,15 +312,15 @@ Obsidian имеет умный поиск путей ссылок и вложе�
 
 
 # Мои плагины
-[Сode block from selection](https://github.com/derwish-pro/obsidian-code-block-from-selection) - добавляет хоткей для быстрого оформления текста в виде блока кода
+[Сode block from selection](https://github.com/dy-sh/obsidian-code-block-from-selection) - добавляет хоткей для быстрого оформления текста в виде блока кода
 
-[Remember cursor position](https://github.com/derwish-pro/obsidian-remember-cursor-position) - запоминает положение курсора и скрола
+[Remember cursor position](https://github.com/dy-sh/obsidian-remember-cursor-position) - запоминает положение курсора и скрола
 
-[Unique attachments](https://github.com/derwish-pro/obsidian-unique-attachments) - переименовывает вложения на основе хэш-функции
+[Unique attachments](https://github.com/dy-sh/obsidian-unique-attachments) - переименовывает вложения на основе хэш-функции
 
-[Consistent attachments and links](https://github.com/derwish-pro/obsidian-consistent-attachments-and-links) - наводит порядок в библиотеке, делая ее более консистентной
+[Consistent attachments and links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) - наводит порядок в библиотеке, делая ее более консистентной
 
-[Find and replace in selection](https://github.com/derwish-pro/obsidian-find-and-replace-in-selection) - поиск и замена текста в выделенном тексте. Поддерживаются RegExp.
+[Find and replace in selection](https://github.com/dy-sh/obsidian-find-and-replace-in-selection) - поиск и замена текста в выделенном тексте. Поддерживаются RegExp.
 
 
 # Tools
