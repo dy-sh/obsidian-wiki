@@ -145,16 +145,16 @@ Obsidian можно совмещать с другими редакторами,
 
 Поле ввода текста для поиска имеет огромный функционал.
 
-/hello.\*world/ - пример RegExp
+`/hello.\*world/` - пример RegExp
 
-/Тест для поиска/ - обычный текст для поиска пишем как RegExp между / /
+`/Тест для поиска/` - обычный текст для поиска пишем как RegExp между / /
 
-path:FolderName - можно указать папку, в которой искать
+`path:FolderName` - можно указать папку, в которой искать
 
 К примеру, мы помним, что писали про хоткей Shift+Enter, но не помним, писали как Shift+Enter или Shift + Enter, или как-то еще. В поиске пишем: 
-/Shift.*Enter/
+`/Shift.*Enter/`
 
-/forward.?vector/ - в результате поиска будет "forwardvector", "forward vector", "forward-vector"...
+`/forward.?vector/` - в результате поиска будет "forwardvector", "forward vector", "forward-vector"...
 
 В условии поиска как RegExp нужно экранировать специальные символы. К примеру:
 /Shift\+Enter/
